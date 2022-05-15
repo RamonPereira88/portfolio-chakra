@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import theme from './styles/theme';
-import '@fontsource/lexend/300.css'
+import '@fontsource/play/400.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
